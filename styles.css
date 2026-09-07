@@ -1,0 +1,5 @@
+.mpv-secret-block { border-left: 3px solid var(--interactive-accent); padding: 0.4em 0.8em; }
+.mpv-secret-actions { display: flex; gap: 0.5em; flex-wrap: wrap; margin-top: 0.5em; }
+.mpv-revealed { font-family: var(--font-monospace); word-break: break-all; }
+.mpv-secret-value { cursor: pointer; color: var(--text-muted); font-family: var(--font-monospace); }
+.mpv-secret-value:hover { color: var(--interactive-accent); }

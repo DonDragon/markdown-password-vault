@@ -1,0 +1,9 @@
+{
+  "id": "markdown-password-vault",
+  "name": "Markdown Password Vault",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "AES-256-GCM encrypted secrets stored directly in Markdown.",
+  "author": "Markdown Password Vault contributors",
+  "isDesktopOnly": false
+}
